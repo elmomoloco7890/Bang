@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "659139205238",
+    "project_id": "bang-336dd",
+    "storage_bucket": "bang-336dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659139205238:android:24cf0d56a131f0d2f8e757",
+        "android_client_info": {
+          "package_name": "com.artemis.bang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659139205238-dhmtved1c7picitcp6e4ot9r3qjgakmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0H4UMK5hzFqvw9Bu0OARdAbT3uW_XG5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659139205238-dhmtved1c7picitcp6e4ot9r3qjgakmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
